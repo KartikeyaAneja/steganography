@@ -9,3 +9,10 @@ In this program I encrypt the message by changing the last bit of the "Red" colo
 ## Encryption Algorithm
 
 The way I changed the last bits of the pixels is by checking if the integer color value is even and if the color value is even but the bit to encode is a 1, 1 is subtracted from the integer color value. Same for vice versa
+
+# Files:
+
+[Encryption Notebook](https://nbviewer.jupyter.org/github/KartikeyaAneja/steganography/blob/main/Encrypt.ipynb)
+
+[Decryption Notebook](https://nbviewer.jupyter.org/github/KartikeyaAneja/steganography/blob/main/Decrypt.ipynb)
+
